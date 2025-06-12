@@ -1,9 +1,9 @@
 # Aryan Kashyap
 
-🎓 **Third-Year Undergraduate**  
-**B.Tech in Civil Engineering**  
+🎓 **Third-Year Undergraduate**   
 _Indian Institute of Technology Bombay, 2023–2027_  
-📧 aryankashyap@iitb.ac.in | 📱 +91 62064 43759  
+_B.Tech in Civil Engineering_   
+aryankashyap@iitb.ac.in | 📱 +91 62064 43759  
 [LinkedIn](https://www.linkedin.com/in/aryan-kshyp/)
 
 ---
@@ -34,17 +34,14 @@ _B.Tech, Civil Engineering_
   - Built expertise in machine learning, neural networks, and image processing
 
 - **Deep Generative Models – An Odyssey**  
-  *Web and Coding Club, Seasons of Code (May 2024 – Jul 2024)*  
   - Generated synthetic data with GANs using the Celeb-A dataset (200K+ images)
   - Explored VAEs, flow-based models, and diffusion models for advanced generative tasks
 
 - **Chatbots over PDFs using RAGs**  
-  *Analytics Club, Winter in Data Science (Dec 2023 – Jan 2024)*  
   - Built a chatbot (Llama-2-7b) for answering user queries on uploaded PDFs using Retrieval-Augmented Generation
   - Integrated NLP to efficiently extract and interact with document content
 
 - **Credit Card Fraud Detection & Customer Profiling**  
-  *Analytics Club, Learners’ Space (Jul 2024 – Aug 2024)*  
   - Achieved 90% accuracy in anomaly detection on 28,000+ transactions
   - Segmented customers with K-means clustering; built regression model (R² = 0.70) for predicting transaction amounts
 
@@ -58,23 +55,13 @@ _B.Tech, Civil Engineering_
 
 ---
 
-## 🚀 Leadership & Mentorship
+## 🌱 Beyond Academics
 
 - **Manager, Analytics Club**  
   *Undergraduate Academic Council (Apr 2025 – Present)*  
   - Head a 2-tier team representing 10,000+ students in AI/Data Science
   - Designed and hosted Internship-Prep Bootcamp and Interview-Prep Booklet for 600+ students
   - Co-organizing the Pan-IIT AI-ML Hackathon with 8 IITs; raised ₹6 lakh in sponsorships
-
-- **Convener, Analytics Club**  
-  *Undergraduate Academic Council (May 2024 – Mar 2025)*  
-  - Selected as 1 of 14 from 200+ applicants; served 5,000+ undergrads
-  - Led Deep Learning Bootcamp (CV & NLP tracks) for 750+ participants
-  - Launched the 1st "Confluence" Consult & Analytics Summit (Budget: ₹2 lakh+); increased annual event reach by 40%
-
----
-
-## 🌱 Beyond Academics
 
 - **Journalism:**  
   - Interviewed the ex-President of Tata Motors; published in "Insight" and for E-Cell IIT Bombay (67k+ followers)
