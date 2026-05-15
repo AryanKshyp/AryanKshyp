@@ -91,16 +91,6 @@ Backend       Python · FastAPI · Django · Docker · Git · React · Next.js �
 Languages     Python · C++ · SQL · JavaScript · LaTeX
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanKshyp&show_icons=true&theme=tokyonight&hide_border=true&title_color=1D0ED2&icon_color=1D0ED2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKshyp&layout=compact&theme=tokyonight&hide_border=true&title_color=1D0ED2)
-
-</div>
 
 ---
 
